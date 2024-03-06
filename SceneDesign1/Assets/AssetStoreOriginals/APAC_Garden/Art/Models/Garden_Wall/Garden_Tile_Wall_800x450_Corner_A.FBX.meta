@@ -1,0 +1,274 @@
+fileFormatVersion: 2
+guid: 915ae7b19532f3f40b60cfed93c84ad3
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Geometry_Garden_Tile_Wall_800x450_Corner_A_LOD00
+    100004: AAAAA035
+    100006: AAAAA050
+    100008: Box2221
+    100010: Box2222
+    100012: Box2251
+    100014: Box2252
+    100016: Group007
+    100018: Object1100
+    100020: Object1115
+    100022: polySurface3909
+    100024: polySurface3924
+    100026: AAAAA034
+    100028: Box2219
+    100030: Box2220
+    100032: Object1099
+    100034: polySurface3908
+    100036: Box2283
+    100038: Object1121
+    100040: Object1122
+    100042: Object1123
+    100044: Object1139
+    100046: Object1140
+    100048: Object1222
+    100050: Object1223
+    100052: Garden_Tile_Wall_800x450_Corner_A_LOD00
+    100054: Garden_Tile_Wall_800x450_Corner_A_LOD01
+    100056: Garden_Tile_Wall_800x450_Corner_A_LOD02
+    100058: Garden_Tile_Wall_800x450_Corner_A_LOD03
+    400000: //RootNode
+    400002: Geometry_Garden_Tile_Wall_800x450_Corner_A_LOD00
+    400004: AAAAA035
+    400006: AAAAA050
+    400008: Box2221
+    400010: Box2222
+    400012: Box2251
+    400014: Box2252
+    400016: Group007
+    400018: Object1100
+    400020: Object1115
+    400022: polySurface3909
+    400024: polySurface3924
+    400026: AAAAA034
+    400028: Box2219
+    400030: Box2220
+    400032: Object1099
+    400034: polySurface3908
+    400036: Box2283
+    400038: Object1121
+    400040: Object1122
+    400042: Object1123
+    400044: Object1139
+    400046: Object1140
+    400048: Object1222
+    400050: Object1223
+    400052: Garden_Tile_Wall_800x450_Corner_A_LOD00
+    400054: Garden_Tile_Wall_800x450_Corner_A_LOD01
+    400056: Garden_Tile_Wall_800x450_Corner_A_LOD02
+    400058: Garden_Tile_Wall_800x450_Corner_A_LOD03
+    2100000: 01 - Default
+    2100002: Roof_A
+    2100004: Roof_Unique_A
+    2100006: Wall_Tiling_A
+    2100008: Wall_Trim_A
+    2100010: Roof_Trim_A
+    2100012: base
+    2100014: Garden
+    2300000: Geometry_Garden_Tile_Wall_800x450_Corner_A_LOD00
+    2300002: AAAAA035
+    2300004: AAAAA050
+    2300006: Box2221
+    2300008: Box2222
+    2300010: Box2251
+    2300012: Box2252
+    2300014: Object1100
+    2300016: Object1115
+    2300018: polySurface3909
+    2300020: polySurface3924
+    2300022: AAAAA034
+    2300024: Box2219
+    2300026: Box2220
+    2300028: Object1099
+    2300030: polySurface3908
+    2300032: Box2283
+    2300034: Object1121
+    2300036: Object1122
+    2300038: Object1123
+    2300040: Object1139
+    2300042: Object1140
+    2300044: Object1222
+    2300046: Object1223
+    2300048: Garden_Tile_Wall_800x450_Corner_A_LOD00
+    2300050: Garden_Tile_Wall_800x450_Corner_A_LOD01
+    2300052: Garden_Tile_Wall_800x450_Corner_A_LOD02
+    2300054: Garden_Tile_Wall_800x450_Corner_A_LOD03
+    3300000: Geometry_Garden_Tile_Wall_800x450_Corner_A_LOD00
+    3300002: AAAAA035
+    3300004: AAAAA050
+    3300006: Box2221
+    3300008: Box2222
+    3300010: Box2251
+    3300012: Box2252
+    3300014: Object1100
+    3300016: Object1115
+    3300018: polySurface3909
+    3300020: polySurface3924
+    3300022: AAAAA034
+    3300024: Box2219
+    3300026: Box2220
+    3300028: Object1099
+    3300030: polySurface3908
+    3300032: Box2283
+    3300034: Object1121
+    3300036: Object1122
+    3300038: Object1123
+    3300040: Object1139
+    3300042: Object1140
+    3300044: Object1222
+    3300046: Object1223
+    3300048: Garden_Tile_Wall_800x450_Corner_A_LOD00
+    3300050: Garden_Tile_Wall_800x450_Corner_A_LOD01
+    3300052: Garden_Tile_Wall_800x450_Corner_A_LOD02
+    3300054: Garden_Tile_Wall_800x450_Corner_A_LOD03
+    4300000: Geometry_Garden_Tile_Wall_800x450_Corner_A_LOD00
+    4300002: AAAAA035
+    4300004: Box2221
+    4300006: Box2222
+    4300008: Object1100
+    4300010: polySurface3909
+    4300012: AAAAA050
+    4300014: Box2251
+    4300016: Box2252
+    4300018: Object1115
+    4300020: polySurface3924
+    4300022: AAAAA034
+    4300024: Box2219
+    4300026: Box2220
+    4300028: Object1099
+    4300030: polySurface3908
+    4300032: Box2283
+    4300034: Object1121
+    4300036: Object1122
+    4300038: Object1123
+    4300040: Object1139
+    4300042: Object1140
+    4300044: Object1222
+    4300046: Object1223
+    4300048: Garden_Tile_Wall_800x450_Corner_A_LOD00
+    4300050: Garden_Tile_Wall_800x450_Corner_A_LOD01
+    4300052: Garden_Tile_Wall_800x450_Corner_A_LOD02
+    4300054: Garden_Tile_Wall_800x450_Corner_A_LOD03
+    20500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Roof_A
+    second: {fileID: 2100000, guid: e526c78ab610919499a4b37dec156a04, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Roof_Trim_A
+    second: {fileID: 2100000, guid: 95dec7ac796b23448b0c3adda52f3e1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Roof_Unique_A
+    second: {fileID: 2100000, guid: 539d5baae7af2284c8bfc677e3714cfd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall_Tiling_A
+    second: {fileID: 2100000, guid: b588c045dfe99b940be7eeb039dd57d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall_Trim_A
+    second: {fileID: 2100000, guid: f0fdad560b94572438dfd2a80c08b8cd, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages:
+    - 0.25
+    - 0.125
+    - 0.0625
+    - 0.01
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

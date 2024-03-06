@@ -1,0 +1,235 @@
+fileFormatVersion: 2
+guid: 56f7bd2e47aa94c419d3447491c3e098
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: AAAAA043
+    100002: AAAAA045
+    100004: Box2237
+    100006: Box2238
+    100008: Box2241
+    100010: Box2242
+    100012: //RootNode
+    100014: Group002
+    100016: Object1108
+    100018: Object1110
+    100020: polySurface3917
+    100022: polySurface3919
+    100024: polySurface3928
+    100026: Object1103
+    100028: Object1157
+    100030: Object1158
+    100032: Object1159
+    100034: Object1160
+    100036: Object1230
+    100038: Garden_Tile_Wall_800x300_Corner_C_LOD00
+    100040: Garden_Tile_Wall_800x300_Corner_C_LOD01
+    100042: Garden_Tile_Wall_800x300_Corner_C_LOD02
+    100044: Garden_Tile_Wall_800x300_Corner_C_LOD03
+    400000: AAAAA043
+    400002: AAAAA045
+    400004: Box2237
+    400006: Box2238
+    400008: Box2241
+    400010: Box2242
+    400012: //RootNode
+    400014: Group002
+    400016: Object1108
+    400018: Object1110
+    400020: polySurface3917
+    400022: polySurface3919
+    400024: polySurface3928
+    400026: Object1103
+    400028: Object1157
+    400030: Object1158
+    400032: Object1159
+    400034: Object1160
+    400036: Object1230
+    400038: Garden_Tile_Wall_800x300_Corner_C_LOD00
+    400040: Garden_Tile_Wall_800x300_Corner_C_LOD01
+    400042: Garden_Tile_Wall_800x300_Corner_C_LOD02
+    400044: Garden_Tile_Wall_800x300_Corner_C_LOD03
+    2100000: Roof_A
+    2100002: Roof_Unique_A
+    2100004: Wall_Tiling_A
+    2100006: Wall_Trim_A
+    2100008: Roof_Trim_A
+    2300000: AAAAA043
+    2300002: AAAAA045
+    2300004: Box2237
+    2300006: Box2238
+    2300008: Box2241
+    2300010: Box2242
+    2300012: Object1108
+    2300014: Object1110
+    2300016: polySurface3917
+    2300018: polySurface3919
+    2300020: polySurface3928
+    2300022: Object1103
+    2300024: Object1157
+    2300026: Object1158
+    2300028: Object1159
+    2300030: Object1160
+    2300032: Object1230
+    2300034: Garden_Tile_Wall_800x300_Corner_C_LOD00
+    2300036: Garden_Tile_Wall_800x300_Corner_C_LOD01
+    2300038: Garden_Tile_Wall_800x300_Corner_C_LOD02
+    2300040: Garden_Tile_Wall_800x300_Corner_C_LOD03
+    3300000: AAAAA043
+    3300002: AAAAA045
+    3300004: Box2237
+    3300006: Box2238
+    3300008: Box2241
+    3300010: Box2242
+    3300012: Object1108
+    3300014: Object1110
+    3300016: polySurface3917
+    3300018: polySurface3919
+    3300020: polySurface3928
+    3300022: Object1103
+    3300024: Object1157
+    3300026: Object1158
+    3300028: Object1159
+    3300030: Object1160
+    3300032: Object1230
+    3300034: Garden_Tile_Wall_800x300_Corner_C_LOD00
+    3300036: Garden_Tile_Wall_800x300_Corner_C_LOD01
+    3300038: Garden_Tile_Wall_800x300_Corner_C_LOD02
+    3300040: Garden_Tile_Wall_800x300_Corner_C_LOD03
+    4300000: AAAAA043
+    4300002: Box2237
+    4300004: Box2238
+    4300006: Object1108
+    4300008: polySurface3917
+    4300010: AAAAA045
+    4300012: Box2241
+    4300014: Box2242
+    4300016: Object1110
+    4300018: polySurface3919
+    4300020: polySurface3928
+    4300022: Object1103
+    4300024: Object1157
+    4300026: Object1158
+    4300028: Object1159
+    4300030: Object1160
+    4300032: Object1230
+    4300034: Garden_Tile_Wall_800x300_Corner_C_LOD00
+    4300036: Garden_Tile_Wall_800x300_Corner_C_LOD01
+    4300038: Garden_Tile_Wall_800x300_Corner_C_LOD02
+    4300040: Garden_Tile_Wall_800x300_Corner_C_LOD03
+    20500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Roof_A
+    second: {fileID: 2100000, guid: e526c78ab610919499a4b37dec156a04, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Roof_Trim_A
+    second: {fileID: 2100000, guid: 95dec7ac796b23448b0c3adda52f3e1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Roof_Unique_A
+    second: {fileID: 2100000, guid: 539d5baae7af2284c8bfc677e3714cfd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall_Tiling_A
+    second: {fileID: 2100000, guid: b588c045dfe99b940be7eeb039dd57d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall_Trim_A
+    second: {fileID: 2100000, guid: f0fdad560b94572438dfd2a80c08b8cd, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages:
+    - 0.25
+    - 0.125
+    - 0.0625
+    - 0.01
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
